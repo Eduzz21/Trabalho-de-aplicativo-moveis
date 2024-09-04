@@ -1,0 +1,3 @@
+Utilizando o device "Pixel Api VanillaiceCream" abra o android emuletor, e excute o my app e é só se divertir com os clicks!!
+Nome: Eduardo Gabriel dos Santos de Paula
+Turma: NC - Osorio noite
